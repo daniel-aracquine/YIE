@@ -23,5 +23,5 @@
    npm install
    npm run dev
    ```
-   This will make the server run at `http://localhost:8000/`
+   This will make the server run at `http://localhost:3000/`
 
